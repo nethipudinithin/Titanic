@@ -8,7 +8,7 @@ Get started with kaggle problems using statistical and ML techniques
 4. Check convergence metrics (R_hat and traceplots) and posterior distribution
 5. Compute posterior predictive in the form of MAP since the goal is to genrate point estimate for each passenger
 
-###Next steps:
+### Next steps:
 1. Observed large standard deviation in prior grouping. Re-evaluate prior grouping.
 
 ## Tree-based classifiers
